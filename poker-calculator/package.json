@@ -1,0 +1,37 @@
+{
+    "name": "poker-calculator",
+    "version": "1.0.0",
+    "description": "Demo which 'calculates' the winning poker hand between 2 players through algorithms using JavaScript and its runtime environment Node.js.\r This is the JavaScript version of:",
+    "main": "index.js",
+    "directories": {
+        "test": "tests"
+    },
+    "scripts": {
+        "test": "jest",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lone-wolf-96/poker-calculator-js.git"
+    },
+    "keywords": [
+        "poker",
+        "calculator"
+    ],
+    "author": "lone-wolf-96",
+    "license": "GPL-3.0-only",
+    "bugs": {
+        "url": "https://github.com/lone-wolf-96/poker-calculator-js/issues"
+    },
+    "homepage": "https://github.com/lone-wolf-96/poker-calculator-js#readme",
+    "devDependencies": {
+        "acorn": "^6.1.1",
+        "eslint": "^5.16.0",
+        "jest": "^24.8.0"
+    },
+    "dependencies": {
+        "esm": "^3.2.25",
+        "ok-enum": "^1.0.5",
+        "readline-sync": "^1.4.9"
+    }
+}
