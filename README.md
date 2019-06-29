@@ -24,6 +24,8 @@ It requires no other installation than having Node.js latest release (12.4.0 by 
 
 * [Visual Studio Code](https://code.visualstudio.com/) was used for this, it requires no other extensions than the built-ins from VSCode.
 
+* For testing: [Jest](https://jestjs.io/).
+
 ### Usage
 
 The process is simple, once is run, it will ask for the pokerdata.txt source directory and then, for the target directory (pokerdata.txt was added as an example for file format).
@@ -37,7 +39,9 @@ Helpful: [How To Enable ECMAScript 6 Imports in Node.JS](https://timonweb.com/tu
 
 For linting: [ESLint](https://eslint.org/) was used.
 
-And for testing: [Jest](https://jestjs.io/).
+About testing from non-root folder, the right way to run it would be:
+
+`node ./[project-name]/node_modules/jest/bin/jest --config ./[project-name]/jest.config.js`
 
 ## Authors
 

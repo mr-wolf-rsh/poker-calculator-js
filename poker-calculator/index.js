@@ -1,5 +1,6 @@
 "use strict";
 
-// eslint-disable-next-line no-global-assign
-require = require("esm")(module)
-module.exports = require("./poker-calculator/app.js")
+const esmImport = require("esm")(module);
+const App = esmImport("./src/app.js").App;
+
+App.main();

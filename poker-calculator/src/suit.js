@@ -4,16 +4,15 @@ import Enum from 'ok-enum';
 
 const Suit = new Enum(
     {
-        SPADES: { suitValue: 'S' },
-        HEARTS: { suitValue: 'H' },
-        CLUBS: { suitValue: 'C' },
-        DIAMONDS: { suitValue: 'D' }
+        SPADES: { suitValue: 'S', name: 'SPADES' },
+        HEARTS: { suitValue: 'H', name: 'HEARTS' },
+        CLUBS: { suitValue: 'C', name: 'CLUBS' },
+        DIAMONDS: { suitValue: 'D', name: 'DIAMONDS' }
     }, {
         handlers: {
             getSuitBySuitValue: function (suitValue) {
                 const key = this.keys().find(key => this[key].suitValue === suitValue);
-                const suit = { ...this[key], name: key };
-                return suit;
+                return this[key];
             }
         }
     });

@@ -998,4 +998,4 @@ Winner 2 : HIGH CARD - ONE PAIR
 Winner 2 : HIGH CARD - TWO PAIRS
 Winner 1 : ONE PAIR - HIGH CARD
 Winner 1 : HIGH CARD - HIGH CARD
-Date and Time: 2019-06-27 04:34:03
+Date and Time: 2019-06-28 21:30:12

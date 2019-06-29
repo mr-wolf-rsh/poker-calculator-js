@@ -4,7 +4,7 @@
 import * as readlineSync from 'readline-sync';
 import Calculator from './calculator';
 
-class App {
+export class App {
     static main() {
         try {
             let nextLine = readlineSync.questionPath("Enter the pokerdata.txt source directory " +
@@ -34,5 +34,3 @@ class App {
         return line + (line[line.length - 1] == '\\' ? "" : "\\");
     }
 }
-
-App.main();

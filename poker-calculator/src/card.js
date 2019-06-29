@@ -1,7 +1,7 @@
 "use strict";
 
-import Suit from './suit.js';
-import Rank from './rank.js';
+import Suit from './suit';
+import Rank from './rank';
 
 export default class Card {
     constructor(rank, suit) {
