@@ -1,11 +1,11 @@
-# [Poker Calculator in JavaScript](https://github.com/lone-wolf-96/poker-calculator-js/)
+# [Poker Calculator in JavaScript](https://github.com/mr-wolf-rsh/poker-calculator-js/)
 
 Demo which 'calculates' the winning poker hand between 2 players through algorithms using JavaScript and its runtime environment Node.js.
 This is the JavaScript version of:
 
-* [Poker Calculator in Java](https://github.com/lone-wolf-96/poker-calculator-java/)
-* [Poker Calculator in Python](https://github.com/lone-wolf-96/poker-calculator-python/)
-* [Poker Calculator in C#](https://github.com/lone-wolf-96/poker-calculator-csharp/)
+* [Poker Calculator in Java](https://github.com/mr-wolf-rsh/poker-calculator-java/)
+* [Poker Calculator in Python](https://github.com/mr-wolf-rsh/poker-calculator-python/)
+* [Poker Calculator in C#](https://github.com/mr-wolf-rsh/poker-calculator-csharp/)
 
 ## Getting Started
 
@@ -45,7 +45,7 @@ About testing from non-root folder, the right way to run it would be:
 
 ## Authors
 
-* **LoneWolf96** - *Final work* - [lone-wolf-96](https://github.com/lone-wolf-96/)
+* **Renzo S.** - *Final work* - [mr-wolf-rsh](https://github.com/mr-wolf-rsh/)
 
 ## Contributing
 
