@@ -25,7 +25,7 @@
     },
     "homepage": "https://github.com/lone-wolf-96/poker-calculator-js#readme",
     "devDependencies": {
-        "acorn": "^6.1.1",
+        "acorn": "^6.4.1",
         "eslint": "^5.16.0",
         "jest": "^24.8.0"
     },
