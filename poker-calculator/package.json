@@ -12,18 +12,18 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/lone-wolf-96/poker-calculator-js.git"
+        "url": "git+https://github.com/mr-wolf-rsh/poker-calculator-js.git"
     },
     "keywords": [
         "poker",
         "calculator"
     ],
-    "author": "lone-wolf-96",
+    "author": "mr-wolf-rsh",
     "license": "GPL-3.0-only",
     "bugs": {
-        "url": "https://github.com/lone-wolf-96/poker-calculator-js/issues"
+        "url": "https://github.com/mr-wolf-rsh/poker-calculator-js/issues"
     },
-    "homepage": "https://github.com/lone-wolf-96/poker-calculator-js#readme",
+    "homepage": "https://github.com/mr-wolf-rsh/poker-calculator-js#readme",
     "devDependencies": {
         "acorn": "^6.1.1",
         "eslint": "^5.16.0",
